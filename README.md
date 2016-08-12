@@ -4,7 +4,7 @@
 
 ### Sumamry
 * Using Picnic CSS library (alternative to Bootstrap)
-`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/picnicss/6.1.1/picnic.min.css">`
+```<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/picnicss/6.1.1/picnic.min.css">```
 * Additional CSS added via assets/stylesheets files
 * External link to about page (you know where it goes ;)
 * Created developer UberRUSH account for API wrapper
