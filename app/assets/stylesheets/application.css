@@ -1,0 +1,13 @@
+.main { 
+	padding-top: 100px; 
+	width: 90%; 
+	margin: 0 auto; 
+} 
+
+.hidden { 
+	display: none; 
+} 
+
+.logo { 
+	width: 100%; 
+}
