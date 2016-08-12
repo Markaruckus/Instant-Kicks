@@ -34,6 +34,6 @@
   * post Order
   * get Done
 * Views
-  * Index
-  * Show
+  * Index `view/products/index.html.erb`
+  * Show `view/products/show.html.erb`
   * Done `view/products/done.html.erb`
